@@ -1,0 +1,18 @@
+.dot {
+  color: rgb(139, 250, 139);
+}
+#erin
+{
+  color: rgb(0, 255, 136);
+  font-style: italic;
+}
+
+#john {font-weight: bold}
+
+.robin
+{
+  font-style: italic;
+  font-size: 25px;
+}
+
+.rachel {color: rebeccapurple}
